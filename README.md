@@ -1,1 +1,1 @@
-this repo is for the study of Deep Learning :)
+this repo is for the study of Deep Learning with my friends :)
